@@ -3,7 +3,7 @@
 This is a Personal Fitness Tracker built using Python, Streamlit, and Machine Learning. It allows users to predict calories burned based on their exercise activity.
 
 ### 🔗 Deployed App
-[![Streamlit App](https://fitnesstrackerpython.streamlit.app/)
+(https://fitnesstrackerpython.streamlit.app/)
 
 ### 📌 Features
 - Predict calories burned based on age, gender, heart rate, etc.
